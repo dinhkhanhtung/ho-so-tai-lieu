@@ -1,0 +1,169 @@
+[
+  {
+    "id": "TL-001",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144869707_1575134338770607154_2384865411152375030_9895ba62367ecbe179b4956a4832503a.jpg",
+    "file": "media/TL-001.jpg",
+    "bytes": 61999,
+    "sha256": "629a8c9320480c5666cbc291050796759dda138bedbf6beb79fd8ea9802923ec"
+  },
+  {
+    "id": "TL-002",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870030_1575134338770607154_2384865411152375030_03c0483b03be084526f8d5ba52e793dc.jpg",
+    "file": "media/TL-002.jpg",
+    "bytes": 51095,
+    "sha256": "f0f2ddb1e8a38134b9f8d2b7219a07c9ef3ad67e995939878e1cb731a80df70b"
+  },
+  {
+    "id": "TL-003",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870196_1575134338770607154_2384865411152375030_0efd7f3803f5869464d58bf89805dfcf.jpg",
+    "file": "media/TL-003.jpg",
+    "bytes": 46814,
+    "sha256": "ce5fcd2e831531d572455429a68d2468f56f4ea9d74f386eaefb9fa540352595"
+  },
+  {
+    "id": "TL-004",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870377_1575134338770607154_2384865411152375030_809e5a2db27b82ccb7fabd39caea4d03.jpg",
+    "file": "media/TL-004.jpg",
+    "bytes": 87487,
+    "sha256": "4b7b0e3a5bf255024712dfd2c8a32827d2b4ad36220ceedcb01ffa508a2627fb"
+  },
+  {
+    "id": "TL-005",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870523_1575134338770607154_2384865411152375030_312ad6c15582f88cdee7b333b9f0bb28.jpg",
+    "file": "media/TL-005.jpg",
+    "bytes": 65649,
+    "sha256": "ea60f8e2e5c13b71e3c9a39bb9eed3d34ece735f98ea2974f130aab57861dfa5"
+  },
+  {
+    "id": "TL-006",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870694_1575134338770607154_2384865411152375030_f1da0e5f7bced0af08f804d89c27b3bc.jpg",
+    "file": "media/TL-006.jpg",
+    "bytes": 63400,
+    "sha256": "a3b615b74d9430bc1a8c47358756943770cd29aa0d0f030cbe8c4159c7a5cb12"
+  },
+  {
+    "id": "TL-007",
+    "folder": "Bằng chứng gọi zalo mỗi ngày",
+    "original_path": "Bằng chứng gọi zalo mỗi ngày\\1792144870844_1575134338770607154_2384865411152375030_c835a27bb7c17f16f305355df6a4950c.jpg",
+    "file": "media/TL-007.jpg",
+    "bytes": 62353,
+    "sha256": "50de39b69f860ee47c7aeed0d48acf33cef67ccf6a8c91d188ca62ef1d82fd5f"
+  },
+  {
+    "id": "TL-008",
+    "folder": "Camera trích xuất lộ trình 2h",
+    "original_path": "Camera trích xuất lộ trình 2h\\1792204201637_2900525533953408430_2900525533953408430.mp4",
+    "file": "media/TL-008.mp4",
+    "bytes": 1400452,
+    "sha256": "eb26f3630583cd76d759ad2500ebfdc91ead008a81ee54d2a74232168fe8de1a"
+  },
+  {
+    "id": "TL-009",
+    "folder": "Camera trích xuất lộ trình 2h",
+    "original_path": "Camera trích xuất lộ trình 2h\\1792205347652_34652061819154069_34652061819154069.mp4",
+    "file": "media/TL-009.mp4",
+    "bytes": 4323851,
+    "sha256": "7738f2ec24f52574bde37b165afcf0f11bb7ebf2ab2327e1e120922593a0bfa3"
+  },
+  {
+    "id": "TL-010",
+    "folder": "Camera trích xuất lộ trình 2h",
+    "original_path": "Camera trích xuất lộ trình 2h\\1792205347942_34652061819154069_34652061819154069.mp4",
+    "file": "media/TL-010.mp4",
+    "bytes": 3148192,
+    "sha256": "c5f2ec107180ef3e78f34db88009aaabc00bf0688a1e0af9fa9fe144c10aaaba"
+  },
+  {
+    "id": "TL-011",
+    "folder": "Ghi âm khi dàn xếp",
+    "original_path": "Ghi âm khi dàn xếp\\huy con may trang ra nh18.35, 17 thg 11​_1.m4a",
+    "file": "media/TL-011.m4a",
+    "bytes": 19977480,
+    "sha256": "a2fe26f4fcf0fac77899884968b6eb5f2ed51af9957f9954bc17b07c6be88ab3",
+    "storage_parts": [
+      "media/TL-011.m4a.part1",
+      "media/TL-011.m4a.part2",
+      "media/TL-011.m4a.part3",
+      "media/TL-011.m4a.part4"
+    ],
+    "note": "Reassemble parts in listed order to recover the original bytes; logical file path is not stored directly."
+  },
+  {
+    "id": "TL-012",
+    "folder": "Ghi âm khi dàn xếp",
+    "original_path": "Ghi âm khi dàn xếp\\vao nha con chó19.13, 17 thg 11​_1.m4a",
+    "file": "media/TL-012.m4a",
+    "bytes": 7523115,
+    "sha256": "d9200f4326067f3b2b49f4aa80ca2247e37f845ebbced1290a649deacf0822bf"
+  },
+  {
+    "id": "TL-013",
+    "folder": "Lịch trình di chuyển khi gặp nhau 2h sáng",
+    "original_path": "Lịch trình di chuyển khi gặp nhau 2h sáng\\1792144871018_1575134338770607154_2384865411152375030_87e2023a662ad75d74cd2821fc931323.jpg",
+    "file": "media/TL-013.jpg",
+    "bytes": 160735,
+    "sha256": "129a0e0b24d730fcca74fd90bacf01bf85d78687c01ff09e782b8dc940cce1d0"
+  },
+  {
+    "id": "TL-014",
+    "folder": "Lịch trình di chuyển khi gặp nhau 2h sáng",
+    "original_path": "Lịch trình di chuyển khi gặp nhau 2h sáng\\1792197486173_1575134338770607154_2384865411152375030_42f08f9dc3ba54b4be58590b0613827e.jpg",
+    "file": "media/TL-014.jpg",
+    "bytes": 170867,
+    "sha256": "cb5a9413ef072f59884291f7e559f3e902815dd0065605a0c69c4b6855bb9e06"
+  },
+  {
+    "id": "TL-015",
+    "folder": "Lịch trình di chuyển khi gặp nhau 2h sáng",
+    "original_path": "Lịch trình di chuyển khi gặp nhau 2h sáng\\1792197486209_1575134338770607154_2384865411152375030_d075ef1c389e97eb70e6b5e3721b8be5.jpg",
+    "file": "media/TL-015.jpg",
+    "bytes": 179731,
+    "sha256": "267ac31ea305e5c7b00ea36b26c485e13ec38a5fe154f1c8e892cc31ed1003f9"
+  },
+  {
+    "id": "TL-016",
+    "folder": "Lịch trình di chuyển khi gặp nhau 2h sáng",
+    "original_path": "Lịch trình di chuyển khi gặp nhau 2h sáng\\1792197486235_1575134338770607154_2384865411152375030_de2a358abe5de5fb5b15a57970a45494.jpg",
+    "file": "media/TL-016.jpg",
+    "bytes": 177430,
+    "sha256": "c9ec90a5e5a25c1e338b67081eb65a07bb3a10a01a09bb3b6cabed9ee16a9985"
+  },
+  {
+    "id": "TL-017",
+    "folder": "Tin nhắn chửi đã gửi",
+    "original_path": "Tin nhắn chửi đã gửi\\1792335156904_1575134338770607154_2384865411152375030_ca94322909637ee11bede037bf0ee31b.jpg",
+    "file": "media/TL-017.jpg",
+    "bytes": 324683,
+    "sha256": "bee210b2ffcb98818df702435ed778ceadaf6f6a9cc41ee96efc78e0714e3748"
+  },
+  {
+    "id": "TL-018",
+    "folder": "Tin nhắn chửi đã gửi",
+    "original_path": "Tin nhắn chửi đã gửi\\Screenshot_2025-11-17-07-09-12-366_com.zing.zalo.jpg",
+    "file": "media/TL-018.jpg",
+    "bytes": 597008,
+    "sha256": "3f7c6f6670292e6ed6ee2d489d9d3f28a80ab29958d45fc4a0983e82d09fb26e"
+  },
+  {
+    "id": "TL-019",
+    "folder": "Tin nhắn chửi đã gửi",
+    "original_path": "Tin nhắn chửi đã gửi\\Screenshot_2025-11-19-07-30-08-975_com.facebook.katana.jpg",
+    "file": "media/TL-019.jpg",
+    "bytes": 405913,
+    "sha256": "19a2c7ee09ee6a507db4c457e2ce271c4d8d97e3ee237256cf07160389524f4f"
+  },
+  {
+    "id": "TL-020",
+    "folder": "Tin nhắn chửi đã gửi",
+    "original_path": "Tin nhắn chửi đã gửi\\Screenshot_2025-11-19-07-35-18-934_com.google.android.apps.messaging.jpg",
+    "file": "media/TL-020.jpg",
+    "bytes": 306967,
+    "sha256": "b339d0675c8c5591753e075a5e5f610dfce64eae1a7d909694918b2a2cb86684"
+  }
+]
